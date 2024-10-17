@@ -1,0 +1,153 @@
+// Add your own custom styles here
+*{
+    box-sizing: border-box;
+  }
+  
+  $border: 1px solid #4d4d4d;
+  
+  img{
+    width: 100%;
+    border-radius: 5px;
+    @media screen and (max-width: 599px){
+      height: 250px;
+      object-fit: cover;
+    }
+  }
+  body{
+    background: #2b2a2b;
+    margin: 0;
+    padding: 0;
+  }
+  
+  main{
+    padding: 2rem;
+    max-width: 1200px;
+    margin: auto;
+  
+  }
+  
+  h1{
+    color: #c8c8c8;
+  }
+  
+
+  h2{
+    color: #ed666f;
+    font-weight: 500;
+  }
+  
+  h3{
+    color: #ffffff;
+    font-weight: 500;
+    margin: 0.5rem 0;
+  }
+  
+
+  .grid-wrapper{
+  
+    // Adding grid layout for screen size above 600 
+    @media screen and (min-width: 600px){
+      display: grid;
+      grid-auto-flow: column;
+      grid-gap: 1rem;
+     
+    }
+  
+    @media screen and (min-width: 1025px){
+      grid-template-columns: 2fr 1.5fr 1.5fr;
+    }
+    @media screen and (min-width: 600px) and (max-width: 1024px){
+      grid-template-columns: 1fr 2fr;
+    }
+  
+  }
+
+  article{
+    p{
+      font-size: 0.95rem;
+      color: #c8c8c8;
+      padding-bottom: 1rem;
+    }
+    padding-bottom: 2rem;
+    padding-right: 1rem;
+    border-bottom: 0px;
+  
+
+    h6{
+        font-weight: 200;
+        color: #fa0085;
+        margin: 0.5rem 0;
+        font-size: 1.2rem;
+      }
+  
+    // using Grid area to place the 4th and 8th element. 
+  
+    &:nth-child(2){
+      grid-area: 1/2/3;
+    }
+  
+    &:nth-child(8){
+      @media screen and (min-width: 1025px){
+        grid-area: 1/4/4/-1;
+      }
+      @media screen and (min-width: 600px) and (max-width: 1024px){
+        grid-area: 4/2/8/3;
+      }
+    }
+  
+    &:nth-child(4n+3){
+      @media screen and (min-width: 1025px){
+        border-bottom: 0;
+      }   
+    }
+    &:nth-child(4){
+      @media screen and (min-width: 1025px){
+        border-right: $border;
+        padding-right: 1rem;
+      }
+  
+    }
+    &:nth-child(2n){
+      @media screen and (min-width: 600px){
+        border-left: $border;
+        border-bottom: 0;
+        padding-left: 1rem;
+      }
+    }
+  
+  
+  }
+  
+  .footer-note{
+    text-align: center;
+    font-size: 0.9rem;
+    background: white;
+    padding: 1rem;
+    color: black;
+    border-radius: 5px;
+    a{
+      color: inherit;
+      font-weight: 600;
+    }
+  }
+
+    
+  .year{
+    h1{
+        color: #6a6a6a;  
+        font-weight: 900;
+        border-bottom: $border;
+      }
+      padding-bottom: 1rem;
+      
+  }
+
+  .date{
+
+    h2{
+        font-weight: 900;
+        font-size: 2rem;
+        color: #c8c8c8; 
+      }
+     padding-top: 2rem;  
+  }

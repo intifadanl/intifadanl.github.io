@@ -1,0 +1,37 @@
+{{ define "main" }}
+  <section class="section-sm">
+    <div class="container">
+      <div class="row justify-center">
+        <div class="md:col-10 lg:col-7 text-center">          
+          <h1 class="h3 mb-6">{{ .Title }}</h1>
+          <div class="content">{{ .Content }}</div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+  <main> 
+    {{ range .RegularPages.GroupByDate "2006" }}
+      <div class="year" id="{{ .Key }}"><h1>{{ .Key }}</h1></div>
+        {{ range .Pages.GroupByDate "Monday 2 January" }}
+          <section>
+            <div class="date"><h2>{{ .Key }}</h2></div>
+            <div class="grid-wrapper">
+              {{ range .Pages }}
+                <article>
+                  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3> 
+                  <h6>{{ .Params.location }}</h6>               
+                  <p>{{ .Description }}</p>
+                  {{ with .Params.image }}
+                    <img src="{{ . }}" alt="Text for alt still needs to be loaded dynamically">
+                  {{ end }}
+                </article>
+              {{ end }}
+            </div>
+          </section>
+        {{ end }}
+    {{ end }}
+  </main>
+{{ end }}
+
+
