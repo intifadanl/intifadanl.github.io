@@ -14,5 +14,6 @@ image:
 image_alt: 
 source_name: AD
 source: "https://archive.ph/20240530222646/https://www.ad.nl/rotterdam/alsnog-pro-palestinaprotest-op-erasmus-universiteit-tentenkamp-opgezet-studenten-blijven-overnachten~a8403b83/#selection-1757.11-1761.72"
+source_original: 
 ---
 Zie voor een tijdlijn van de protesten bij de EUR: https://archive.is/VJJ7T

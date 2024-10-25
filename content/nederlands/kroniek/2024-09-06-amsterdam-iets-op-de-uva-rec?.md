@@ -1,7 +1,7 @@
 ---
 date: 2024-09-06
 status: Onvolledig
-opmerking: 
+opmerking: "Another source from Palestine Action: https://imginn.com/p/C_lh7J2oca4/"
 draft: TRUE
 title: Iets op de UvA Rec?
 location: Amsterdam
@@ -14,4 +14,5 @@ image: /images/2024-09-06-amsterdam-spui.jpg
 image_alt: 
 source_name: 
 source: 
+source_original: 
 ---

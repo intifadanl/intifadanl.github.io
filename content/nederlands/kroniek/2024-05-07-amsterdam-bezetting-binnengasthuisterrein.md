@@ -14,4 +14,5 @@ image: /images/2024-05-07-amsterdam-bezetting.gif
 image_alt: Een kort bewegend fragment aan een gracht, waarin tientallen zo niet honderden mensen in een keten hout en andere objecten bijeenbrengen om een barricade te versterken. Tientallen andere mensen kijken toe vanaf de andere kant van de barricade. Het is een zonnige dag.
 source_name: Parool
 source: "https://archive.is/ApXgq"
+source_original: 
 ---

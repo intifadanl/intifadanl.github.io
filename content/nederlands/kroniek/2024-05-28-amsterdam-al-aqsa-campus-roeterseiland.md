@@ -14,4 +14,5 @@ image:
 image_alt: 
 source_name: Twitter
 source: "https://x.com/AMS_Encampment/status/1795409259561173417"
+source_original: 
 ---
