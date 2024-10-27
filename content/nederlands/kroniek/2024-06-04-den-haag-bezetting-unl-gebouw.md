@@ -1,8 +1,8 @@
 ---
 date: 2024-06-04
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Bezetting UNL gebouw
 location: Den Haag
 coordinates: 

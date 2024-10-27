@@ -1,8 +1,8 @@
 ---
 date: 2024-09-15
-status: Onvolledig
 opmerking: 
 draft: TRUE
+status: Onvolledig
 title: Demo in Rotterdam
 location: Rotterdam
 coordinates: 

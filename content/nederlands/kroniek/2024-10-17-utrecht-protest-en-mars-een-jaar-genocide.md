@@ -1,8 +1,8 @@
 ---
 date: 2024-10-17
-status: 
 opmerking: 
 draft: TRUE
+status: 
 title: Protest en mars een jaar genocide
 location: Utrecht
 coordinates: 

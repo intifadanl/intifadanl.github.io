@@ -1,8 +1,8 @@
 ---
 date: 2024-06-03
-status: Onvolledig
 opmerking: 
 draft: TRUE
+status: Onvolledig
 title: Bezetting Universiteit Delft
 location: Delft
 coordinates: 

@@ -1,8 +1,8 @@
 ---
 date: 2024-06-10
-status: Onvolledig
 opmerking: 
 draft: TRUE
+status: Onvolledig
 title: Steundemonstratie op de VU
 location: Amsterdam
 coordinates: 

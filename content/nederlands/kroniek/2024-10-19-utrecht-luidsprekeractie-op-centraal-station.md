@@ -1,8 +1,8 @@
 ---
 date: 2024-10-19
-status: 
 opmerking: Check datum
 draft: FALSE
+status: 
 title: Luidsprekeractie op Centraal Station
 location: Utrecht
 coordinates: 

@@ -1,8 +1,8 @@
 ---
 date: 2024-10-19
-status: 
 opmerking: 
 draft: FALSE
+status: 
 title: Palestina-blok bij Amsterdam Danst Ergens Voor
 location: Amsterdam
 coordinates: 52.38594436645508,4.88166618347168

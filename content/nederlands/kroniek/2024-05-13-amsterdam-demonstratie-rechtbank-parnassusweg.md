@@ -1,8 +1,8 @@
 ---
 date: 2024-05-13
-status: Onvolledig
 opmerking: Kan geen bron vinden. Toevoeging was gebaseerd op een Instagram-aankondiging.
 draft: TRUE
+status: Onvolledig
 title: Demonstratie rechtbank Parnassusweg
 location: Amsterdam
 coordinates: 

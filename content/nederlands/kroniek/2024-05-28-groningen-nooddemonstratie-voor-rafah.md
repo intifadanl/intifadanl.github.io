@@ -1,8 +1,8 @@
 ---
 date: 2024-05-28
-status: Onvolledig
 opmerking: Ik heb alleen een aankondiging gevonden.
 draft: TRUE
+status: Onvolledig
 title: Nooddemonstratie voor Rafah
 location: Groningen
 coordinates: 

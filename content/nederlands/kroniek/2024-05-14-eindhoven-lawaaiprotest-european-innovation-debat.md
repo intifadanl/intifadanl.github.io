@@ -1,8 +1,8 @@
 ---
 date: 2024-05-14
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Lawaaiprotest European Innovation debat
 location: Eindhoven
 coordinates: 

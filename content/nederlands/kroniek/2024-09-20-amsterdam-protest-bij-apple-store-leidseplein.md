@@ -1,8 +1,8 @@
 ---
 date: 2024-09-20
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Protest bij Apple Store Leidseplein
 location: Amsterdam
 coordinates: 

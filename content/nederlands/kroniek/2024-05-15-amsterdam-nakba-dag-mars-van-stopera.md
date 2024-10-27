@@ -1,8 +1,8 @@
 ---
 date: 2024-05-15
-status: Onvolledig
 opmerking: Volgens mij heeft de bron het verkeerd
 draft: TRUE
+status: Onvolledig
 title: Nakba dag mars van Stopera
 location: Amsterdam
 coordinates: 

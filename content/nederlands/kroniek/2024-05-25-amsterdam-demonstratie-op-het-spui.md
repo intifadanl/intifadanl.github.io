@@ -1,8 +1,8 @@
 ---
 date: 2024-05-25
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Demonstratie op het Spui
 location: Amsterdam
 coordinates: 

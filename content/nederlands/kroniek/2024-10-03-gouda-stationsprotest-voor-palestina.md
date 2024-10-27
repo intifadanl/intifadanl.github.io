@@ -1,8 +1,8 @@
 ---
 date: 2024-10-03
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Stationsprotest voor Palestina
 location: Gouda
 coordinates: 

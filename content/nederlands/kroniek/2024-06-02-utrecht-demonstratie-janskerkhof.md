@@ -1,8 +1,8 @@
 ---
 date: 2024-06-02
-status: Onvolledig
 opmerking: 
 draft: TRUE
+status: Onvolledig
 title: Demonstratie Janskerkhof
 location: Utrecht
 coordinates: 

@@ -1,8 +1,8 @@
 ---
 date: 2024-05-07
-status: Volledig
 opmerking: 
 draft: FALSE
+status: Volledig
 title: UvA-personeel demonstreert
 location: Amsterdam
 coordinates: 

@@ -1,8 +1,8 @@
 ---
 date: 2024-05-07
-status: Onvolledig
 opmerking: Needs image, image alt + source
 draft: FALSE
+status: Onvolledig
 title: Tentenkamp op Roeterseiland
 location: Amsterdam
 coordinates: 

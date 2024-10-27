@@ -1,8 +1,8 @@
 ---
 date: 2024-05-13
-status: Onvolledig
 opmerking: Needs image alt,
 draft: FALSE
+status: Onvolledig
 title: Demonstratie Roeterseiland
 location: Amsterdam
 coordinates: 

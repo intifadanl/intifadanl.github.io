@@ -1,8 +1,8 @@
 ---
 date: 2024-10-13
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Demonstratie op de Dam
 location: Amsterdam
 coordinates: 

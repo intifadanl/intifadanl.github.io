@@ -1,8 +1,8 @@
 ---
 date: 2024-09-12
-status: Onvolledig
 opmerking: 
 draft: TRUE
+status: Onvolledig
 title: Demo in Oss
 location: Oss
 coordinates: 

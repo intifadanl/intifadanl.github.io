@@ -1,8 +1,8 @@
 ---
 date: 2024-05-06
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Tentenkamp op Roeterseiland
 location: Amsterdam
 coordinates: 52.3637631,4.9130784

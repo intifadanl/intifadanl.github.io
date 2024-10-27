@@ -1,8 +1,8 @@
 ---
 date: 2024-05-25
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Oprichting van de Shadia Abu-Ghazaleh Campus
 location: Amsterdam
 coordinates: 

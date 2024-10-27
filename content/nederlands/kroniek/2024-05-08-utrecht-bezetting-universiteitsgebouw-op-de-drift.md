@@ -1,8 +1,8 @@
 ---
 date: 2024-05-08
-status: Onvolledig
 opmerking: Needs image alt
 draft: FALSE
+status: Onvolledig
 title: Bezetting universiteitsgebouw op de Drift
 location: Utrecht
 coordinates: 

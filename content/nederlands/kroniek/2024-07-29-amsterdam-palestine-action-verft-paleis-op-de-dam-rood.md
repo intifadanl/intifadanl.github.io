@@ -1,8 +1,8 @@
 ---
 date: 2024-07-29
-status: Onvolledig
 opmerking: 
 draft: TRUE
+status: Onvolledig
 title: Palestine Action verft Paleis op de Dam rood
 location: Amsterdam
 coordinates: 

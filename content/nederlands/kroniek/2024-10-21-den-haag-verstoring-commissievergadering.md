@@ -1,8 +1,8 @@
 ---
 date: 2024-10-21
-status: 
 opmerking: 
 draft: FALSE
+status: 
 title: Verstoring commissievergadering
 location: Den Haag
 coordinates: 

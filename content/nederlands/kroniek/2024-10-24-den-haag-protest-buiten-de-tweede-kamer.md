@@ -1,8 +1,8 @@
 ---
 date: 2024-10-24
-status: 
 opmerking: 
 draft: TRUE
+status: 
 title: Protest buiten de Tweede Kamer
 location: Den Haag
 coordinates: 

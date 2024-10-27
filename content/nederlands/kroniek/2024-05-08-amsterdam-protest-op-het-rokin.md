@@ -1,8 +1,8 @@
 ---
 date: 2024-05-08
-status: Volledig
 opmerking: Needs image alt + source
 draft: FALSE
+status: Volledig
 title: Protest op het Rokin
 location: Amsterdam
 coordinates: 52.368404,4.8927669

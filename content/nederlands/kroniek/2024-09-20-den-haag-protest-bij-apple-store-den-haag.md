@@ -1,8 +1,8 @@
 ---
 date: 2024-09-20
-status: Onvolledig
 opmerking: Bron is Danie1 niet ergens anders gezien
 draft: FALSE
+status: Onvolledig
 title: Protest bij Apple Store Den Haag
 location: Den Haag
 coordinates: 

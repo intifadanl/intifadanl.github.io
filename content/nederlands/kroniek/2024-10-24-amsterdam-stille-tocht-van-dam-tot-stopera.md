@@ -1,8 +1,8 @@
 ---
 date: 2024-10-24
-status: 
 opmerking: Kan nog een adbeelding bij gezocht worden, maar ik vond geen nieuwsbron
 draft: FALSE
+status: 
 title: Stille tocht van Dam tot Stopera
 location: Amsterdam
 coordinates: 

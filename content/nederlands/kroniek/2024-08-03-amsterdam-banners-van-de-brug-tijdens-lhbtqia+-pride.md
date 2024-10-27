@@ -1,8 +1,8 @@
 ---
 date: 2024-08-03
-status: 
 opmerking: IMAGE STILL TO BE ADDED
 draft: TRUE
+status: 
 title: Banners van de brug tijdens LHBTQIA+ Pride
 location: Amsterdam
 coordinates: 

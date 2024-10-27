@@ -1,8 +1,8 @@
 ---
 date: 2024-10-18
-status: 
 opmerking: 
 draft: TRUE
+status: 
 title: Noodzitprotest Centraal Station
 location: Amsterdam
 coordinates: 

@@ -1,8 +1,8 @@
 ---
 date: 2024-05-06
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: "Onderwijs: Noodsituaties in de gezondheidszorg en zorgverlening in conflictgebieden"
 location: Rotterdam
 coordinates: 

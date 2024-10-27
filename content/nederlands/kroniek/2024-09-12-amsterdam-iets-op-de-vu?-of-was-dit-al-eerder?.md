@@ -1,8 +1,8 @@
 ---
 date: 2024-09-12
-status: Onvolledig
 opmerking: 
 draft: TRUE
+status: Onvolledig
 title: Iets op de VU? Of was dit al eerder?
 location: Amsterdam
 coordinates: 

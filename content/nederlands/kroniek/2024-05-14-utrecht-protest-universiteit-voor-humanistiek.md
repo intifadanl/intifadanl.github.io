@@ -1,8 +1,8 @@
 ---
 date: 2024-05-14
-status: Onvolledig
 opmerking: De bron is van 17 mei 2024
 draft: FALSE
+status: Onvolledig
 title: Protest Universiteit voor Humanistiek
 location: Utrecht
 coordinates: 

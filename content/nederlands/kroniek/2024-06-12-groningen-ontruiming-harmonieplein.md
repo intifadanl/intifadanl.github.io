@@ -1,8 +1,8 @@
 ---
 date: 2024-06-12
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Ontruiming Harmonieplein
 location: Groningen
 coordinates: 

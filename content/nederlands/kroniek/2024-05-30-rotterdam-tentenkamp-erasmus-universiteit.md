@@ -1,8 +1,8 @@
 ---
 date: 2024-05-30
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Tentenkamp Erasmus Universiteit
 location: Rotterdam
 coordinates: 

@@ -1,8 +1,8 @@
 ---
 date: 2024-09-24
-status: Onvolledig
 opmerking: 
 draft: TRUE
+status: Onvolledig
 title: Noodprotest voor Libanon
 location: Rotterdam
 coordinates: 

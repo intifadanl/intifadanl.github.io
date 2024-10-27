@@ -1,8 +1,8 @@
 ---
 date: 2024-09-22
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Geef Haat Geen Macht
 location: Amsterdam
 coordinates: 

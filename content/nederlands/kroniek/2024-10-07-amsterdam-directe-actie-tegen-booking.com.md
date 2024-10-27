@@ -1,8 +1,8 @@
 ---
 date: 2024-10-07
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Directe actie tegen Booking.com
 location: Amsterdam
 coordinates: 

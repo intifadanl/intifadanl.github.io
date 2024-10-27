@@ -1,8 +1,8 @@
 ---
 date: 2024-09-06
-status: Onvolledig
 opmerking: "Alternative image source from Palestine Action: https://www.instagram.com/p/C_lh7J2oca4/?img_index=3 => source: /images/2024-09-06-amsterdam-spui.gif"
 draft: TRUE
+status: Onvolledig
 title: Demonstratie bij de opening van het academische jaar
 location: Amsterdam
 coordinates: 

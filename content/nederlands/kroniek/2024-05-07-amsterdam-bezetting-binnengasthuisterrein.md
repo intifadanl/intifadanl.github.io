@@ -1,8 +1,8 @@
 ---
 date: 2024-05-07
-status: Onvolledig
 opmerking: Needs image alt
 draft: FALSE
+status: Onvolledig
 title: Bezetting Binnengasthuisterrein
 location: Amsterdam
 coordinates: 

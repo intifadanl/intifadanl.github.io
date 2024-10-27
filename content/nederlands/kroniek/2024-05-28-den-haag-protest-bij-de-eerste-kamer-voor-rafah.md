@@ -1,8 +1,8 @@
 ---
 date: 2024-05-28
-status: Onvolledig
 opmerking: Moeilijk iets over te vinden. Ik herinner me het wel.
 draft: TRUE
+status: Onvolledig
 title: Protest bij de Eerste Kamer voor Rafah
 location: Den Haag
 coordinates: 

@@ -1,8 +1,8 @@
 ---
 date: 2024-05-30
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Demonstratie Stopera tegen burgemeester Halsema
 location: Amsterdam
 coordinates: 

@@ -1,8 +1,8 @@
 ---
 date: 2024-05-22
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Tentprotest bij Science Park UvA
 location: Amsterdam
 coordinates: 

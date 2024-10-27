@@ -1,8 +1,8 @@
 ---
 date: 2024-05-15
-status: Onvolledig
 opmerking: Bron is dagboek
 draft: FALSE
+status: Onvolledig
 title: Lawaaiprotest Westzaan
 location: Westzaan
 coordinates: 

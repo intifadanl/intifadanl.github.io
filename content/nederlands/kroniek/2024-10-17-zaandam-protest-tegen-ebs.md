@@ -1,8 +1,8 @@
 ---
 date: 2024-10-17
-status: 
 opmerking: 
 draft: TRUE
+status: 
 title: Protest tegen EBS
 location: Zaandam
 coordinates: 52.437950134277344,4.812844753265381

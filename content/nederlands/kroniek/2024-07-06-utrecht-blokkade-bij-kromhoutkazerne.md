@@ -1,8 +1,8 @@
 ---
 date: 2024-07-06
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Blokkade bij Kromhoutkazerne
 location: Utrecht
 coordinates: 

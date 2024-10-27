@@ -1,8 +1,8 @@
 ---
 date: 2024-05-06
-status: Onvolledig
 opmerking: 
 draft: TRUE
+status: Onvolledig
 title: Tentenkamp aangevallen met vuurwerk
 location: Amsterdam
 coordinates: 

@@ -1,8 +1,8 @@
 ---
 date: 2024-05-27
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Demonstratie naar de Dam
 location: Amsterdam
 coordinates: 

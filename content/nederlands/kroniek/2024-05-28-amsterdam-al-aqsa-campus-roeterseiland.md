@@ -1,8 +1,8 @@
 ---
 date: 2024-05-28
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Al-Aqsa campus Roeterseiland
 location: Amsterdam
 coordinates: 

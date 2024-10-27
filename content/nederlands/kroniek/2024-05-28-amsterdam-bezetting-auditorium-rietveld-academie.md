@@ -1,8 +1,8 @@
 ---
 date: 2024-05-28
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Bezetting auditorium Rietveld Academie
 location: Amsterdam
 coordinates: 

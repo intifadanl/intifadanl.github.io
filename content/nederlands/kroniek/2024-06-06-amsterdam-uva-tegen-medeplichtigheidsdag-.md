@@ -1,8 +1,8 @@
 ---
 date: 2024-06-06
-status: Onvolledig
 opmerking: 
 draft: TRUE
+status: Onvolledig
 title: UvA tegen medeplichtigheidsdag 
 location: Amsterdam
 coordinates: 

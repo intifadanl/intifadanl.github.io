@@ -1,8 +1,8 @@
 ---
 date: 2024-06-07
-status: Onvolledig
 opmerking: 
 draft: TRUE
+status: Onvolledig
 title: Demonstratie bij het VU tentenkamp
 location: Amsterdam
 coordinates: 

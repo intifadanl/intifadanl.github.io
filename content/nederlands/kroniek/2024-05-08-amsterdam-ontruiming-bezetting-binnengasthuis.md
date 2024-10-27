@@ -1,8 +1,8 @@
 ---
 date: 2024-05-08
-status: Volledig
 opmerking: 
 draft: FALSE
+status: Volledig
 title: Ontruiming bezetting Binnengasthuis
 location: Amsterdam
 coordinates: 52.3681761,4.8946981

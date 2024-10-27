@@ -1,8 +1,8 @@
 ---
 date: 2024-10-14
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Noodprotest in Utrecht
 location: Utrecht
 coordinates: 

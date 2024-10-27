@@ -1,8 +1,8 @@
 ---
 date: 2024-05-29
-status: Onvolledig
 opmerking: Mar was hier, volgens mij. Maar geen spoor. 
 draft: TRUE
+status: Onvolledig
 title: Solidariteitsbetuiging rechtbank Parnassusweg
 location: Amsterdam
 coordinates: 

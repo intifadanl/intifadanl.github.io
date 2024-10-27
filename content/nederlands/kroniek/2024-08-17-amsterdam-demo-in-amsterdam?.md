@@ -1,8 +1,8 @@
 ---
 date: 2024-08-17
-status: Onvolledig
 opmerking: 
 draft: TRUE
+status: Onvolledig
 title: Demo in Amsterdam?
 location: Amsterdam
 coordinates: 

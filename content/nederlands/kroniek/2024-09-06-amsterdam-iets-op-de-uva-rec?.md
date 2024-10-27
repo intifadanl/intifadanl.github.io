@@ -1,8 +1,8 @@
 ---
 date: 2024-09-06
-status: Onvolledig
 opmerking: "Another source from Palestine Action: https://imginn.com/p/C_lh7J2oca4/"
 draft: TRUE
+status: Onvolledig
 title: Iets op de UvA Rec?
 location: Amsterdam
 coordinates: 

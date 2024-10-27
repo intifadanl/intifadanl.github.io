@@ -1,8 +1,8 @@
 ---
 date: 2024-09-24
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: NIDV Projectendag tegengehouden
 location: Utrecht
 coordinates: 

@@ -1,8 +1,8 @@
 ---
 date: 2024-05-09
-status: Volledig
 opmerking: Needs image alt
 draft: FALSE
+status: Volledig
 title: Solidariteitsdemonstratie Roeterseiland
 location: Amsterdam
 coordinates: 

@@ -1,8 +1,8 @@
 ---
 date: 2024-10-08
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Lawaaiprotest bij Booking.com hoofdkantoor
 location: Amsterdam
 coordinates: 

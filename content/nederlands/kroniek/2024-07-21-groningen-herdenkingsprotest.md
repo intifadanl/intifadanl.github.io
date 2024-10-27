@@ -1,8 +1,8 @@
 ---
 date: 2024-07-21
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Herdenkingsprotest
 location: Groningen
 coordinates: 

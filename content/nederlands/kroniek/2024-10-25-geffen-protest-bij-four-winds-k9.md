@@ -1,8 +1,8 @@
 ---
 date: 2024-10-25
-status: 
 opmerking: 
 draft: FALSE
+status: 
 title: Protest bij Four Winds K9
 location: Geffen
 coordinates: 

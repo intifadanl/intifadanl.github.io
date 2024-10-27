@@ -1,8 +1,8 @@
 ---
 date: 2024-05-09
-status: Volledig
 opmerking: Needs image alt 
 draft: FALSE
+status: Volledig
 title: Demo bij het Maagdenhuis
 location: Amsterdam
 coordinates: 

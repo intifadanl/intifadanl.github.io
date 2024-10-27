@@ -1,8 +1,8 @@
 ---
 date: 2024-05-11
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Aanval op demonstratie Museumplein
 location: Amsterdam
 coordinates: 

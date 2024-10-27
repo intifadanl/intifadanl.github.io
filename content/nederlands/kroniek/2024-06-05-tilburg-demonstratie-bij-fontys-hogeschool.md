@@ -1,8 +1,8 @@
 ---
 date: 2024-06-05
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Demonstratie bij Fontys Hogeschool
 location: Tilburg
 coordinates: 

@@ -1,8 +1,8 @@
 ---
 date: 2024-05-17
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Bezetting Oudemanhuispoort
 location: Amsterdam
 coordinates: 

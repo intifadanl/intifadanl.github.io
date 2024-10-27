@@ -1,8 +1,8 @@
 ---
 date: 2024-05-13
-status: Onvolledig
 opmerking: 
 draft: FALSE
+status: Onvolledig
 title: Bezetting ABC-gebouw van de UvA
 location: Amsterdam
 coordinates: 

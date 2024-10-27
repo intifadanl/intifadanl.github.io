@@ -1,8 +1,8 @@
 ---
 date: 2024-05-17
-status: Onvolledig
 opmerking: Bron is dagboek
 draft: FALSE
+status: Onvolledig
 title: Zitprotest Vrije Universiteit
 location: Amsterdam
 coordinates: 
