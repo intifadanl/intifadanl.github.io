@@ -9,7 +9,7 @@ coordinates:
 category: acties
 tags: [concert]
 description_original: 
-description: "Sophie Straat komt op podium met keffiyeh, en houdt aan het einde van haar act een briefje op met: Nederland heeft bloed aan haar handen." Rapper Mocromaniac riep 'Free Palestina!' toen hij klaar was.  "
+description: "Sophie Straat komt het podium op met een keffiyeh, en houdt aan het einde van haar act een briefje op met: Nederland heeft bloed aan haar handen. Rapper Mocromaniac riep: Free Palestina! toen hij klaar was.  "
 image: /images/2024-10-27-amsterdam-concert750.jpeg
 image_alt: Een beeld van een concert, iemand achter een microfoon met een rood-witte keffiyeh, ze houdt een briefje op met daarop Nederland heeft bloed aan haar handen.
 source_name: Telegraaf
