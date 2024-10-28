@@ -8,10 +8,13 @@ location: Amsterdam
 coordinates: 
 category: acties
 tags: []
-description_original: Van 3 tot 11 juni staat er op de VU een tentenkamp in het grote plein
-description: Van 3 tot 11 juni staat er op de VU een tentenkamp in het grote plein
+description_original: > 
+ Van 3 tot 11 juni staat er op de VU een tentenkamp in het grote plein
+description: > 
+ Van 3 tot 11 juni staat er op de VU een tentenkamp in het grote plein
 image: 
-image_alt: 
+image_alt: > 
+ 
 source_name: De Intifada (tijdschrift)
 source: 
 source_original: 

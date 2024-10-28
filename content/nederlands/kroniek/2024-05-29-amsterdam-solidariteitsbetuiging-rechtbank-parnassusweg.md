@@ -8,10 +8,13 @@ location: Amsterdam
 coordinates: 
 category: acties
 tags: []
-description_original: 
-description: 
+description_original: > 
+ 
+description: > 
+ 
 image: 
-image_alt: 
+image_alt: > 
+ 
 source_name: De Intifada (tijdschrift)
 source: 
 source_original: 

@@ -8,10 +8,13 @@ location: Amsterdam
 coordinates: 
 category: acties
 tags: []
-description_original: 
-description: 
+description_original: > 
+ 
+description: > 
+ 
 image: /images/2024-09-12-amsterdam-vu-bord.png
-image_alt: 
+image_alt: > 
+ 
 source_name: 
 source: 
 source_original: 

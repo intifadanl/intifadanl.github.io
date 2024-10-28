@@ -8,11 +8,15 @@ location: Amsterdam
 coordinates: 
 category: 
 tags: []
-description_original: 
-description: Honderden mensen nemen deel aan een stille tocht vanaf de Dam naar de Stopera in Amsterdam. Ze protesteren tegen Israëls apartheid en genocide in Palestina, en de aanval op Libanon. 
+description_original: > 
+ 
+description: > 
+ Honderden mensen nemen deel aan een stille tocht vanaf de Dam naar de Stopera in Amsterdam. Ze protesteren tegen Israëls apartheid en genocide in Palestina, en de aanval op Libanon. 
 image: 
-image_alt: 
+image_alt: > 
+ 
 source_name: LinkedIn
-source: "https://archive.is/Yt21M"
+source: > 
+ https://archive.is/Yt21M
 source_original: 
 ---
