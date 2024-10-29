@@ -1,0 +1,28 @@
+---
+date: 2024-03-03
+opmerking: 
+draft: TRUE
+status: Opzet
+title: Blokkade zionistisch filmfestival
+location: Maastricht
+coordinates: 
+category: acties
+tags: []
+description_original: > 
+ An Autonomous group of individuals, have blocked the part of the Israeli film festival today at Lumiere cinema in protest against the normalization of genocide and Israeli apartheid. Before the start of the screening, around 20 people used their bodies to stand before and non-violently block the entrance of Lumiere.   "We are appalled by the decision of Lumiere to take part in the film festival co-sponsored by the Israeli government during unimaginable suffering caused by the genocidal attack on Gaza. This constitutes cultural washing, an attempt by Israel to rebrand itself and shift popular opinion away from its crimes against Palestinians. We can see this strategy at work as Lumiere refused to take a stance defying multiple calls from Maastricht civil society, despite hundreds of Palestinians broadcasting their suffering daily live through the internet, Gaza being pushed to famine by Israel, the total destruction of most of Gaza and the history of Israel including the displacements of over 740.000 Palestinians in the Nakba. We stand in solidarity with the Palestinian call for cultural boycott to end this white washing of colonialism and to exert pressure on Israel to end the oppression of Palestinians.   The cultural boycott of Israel is necessary and essential. Modeled on the anti-apartheid movement, cultural and academic components of the South African boycott were particularly effective because they isolated the middle class and elite in that country from the rest of the world. Those who no longer wished to be shunned pressured their government to end apartheid. Israel, perhaps more than any other nation, needs the support of the international community. Therefore we have the power and the responsibility to put this kind of pressure. As institutions like Lumiere fail to take a moral stance and continue to work with entities actively committing genocide, we see no other option than to resort to direct action. It is emphasized that this is an action against institutions and not individuals. We have an action consensus of deescalation and non-violence and reject any notion to frame our peaceful protest as a threat or criminal"  #maastricht
+description: > 
+ Een groep zo'n twintig mensen blokkeert een deel van het zogenaamd israëlische filmfestival in de Lumière-bioscoop in Maastricht uit protest tegen de normalisering van genocide en apartheid. Ongeveer 20 mensen staan arm-in-arm voor de ingang en gebruiken zo hun lichaam om Lumière geweldloos te blokkeren.
+image: /images/2024-03-25-maastricht-fillm.png
+image_alt: > 
+ Aanzicht op een plein met een hoog gebouw in grauw-geel steen, hoge verdiepingen en hoge ramen. Voor het gebouw staat een terrasparasol. In het midden van het beeld staat boven de ingang in grote, witte letters het woord 'Lumière'. De ingang zelf is een hoge, donkere duur. Voor de ingang staan zo'n twintig mensen met de armen ineen gehaakt, hun gezicht richting het plein. De meesten van hen dragen witte gezichtsmaskers. Voor hen staan twee handhavers in uniform. Drie personen lopen langs, een ander maakt verderop een foto van de situatie, en weer een ander zit op een bankje.
+source_name: Palestine Action Amsterdam
+source: > 
+ https://imginn.com/p/C48b2tUIkgM/
+source_original: > 
+ https://www.instagram.com/p/C48b2tUIkgM
+---
+De groep licht in het Engels toe: 
+
+'We zijn geschokt door het besluit van Lumière om deel te nemen aan het filmfestival dat mede werd gesponsord door de Israëlische regering tijdens het onvoorstelbare lijden dat werd veroorzaakt door de genocidale aanval op Gaza. Dit is cultuurwassen, een poging van Israël om zichzelf een nieuw imago te geven en de publieke opinie af te leiden van diens misdaden tegen Palestijnen. We kunnen deze strategie in werking zien, aangezien Lumière weigerde een standpunt in te nemen tegen meerdere oproepen van de burgermaatschappij in Maastricht, ondanks het feit dat honderden Palestijnen hun lijden dagelijks live via internet uitzonden, Gaza door Israël tot hongersnood werd gedwongen, de totale vernietiging van het grootste deel van Gaza en de geschiedenis van Israël, inclusief de ontheemding van meer dan 740.000 Palestijnen in de Nakba. We staan ​​solidair met de Palestijnse oproep tot culturele boycot om een ​​einde te maken aan deze witwassing van het kolonialisme en om druk uit te oefenen op Israël om een ​​einde te maken aan de onderdrukking van Palestijnen.
+
+De culturele boycot van Israël is noodzakelijk en essentieel. Gemodelleerd naar de anti-apartheidsbeweging waren culturele en academische componenten van de Zuid-Afrikaanse boycot bijzonder effectief omdat ze de middenklasse en elite in dat land isoleerden van de rest van de wereld. Degenen die niet langer gemeden wilden worden, zetten hun regering onder druk om een ​​einde te maken aan de apartheid. Israël heeft, misschien wel meer dan enig ander land, drijft op steun van de internationale gemeenschap. Daarom hebben we de macht en de verantwoordelijkheid om dit soort druk uit te oefenen. Omdat instellingen als Lumière er niet in slagen een moreel standpunt in te nemen en blijven samenwerken met entiteiten die actief genocide plegen, zien we geen andere optie dan om over te gaan tot directe actie.'
