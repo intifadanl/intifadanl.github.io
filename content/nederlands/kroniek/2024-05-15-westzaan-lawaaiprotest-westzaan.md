@@ -1,6 +1,6 @@
 ---
 date: 2024-05-15
-opmerking: Bron is dagboek
+opmerking: Bron is getuige
 draft: FALSE
 status: Onvolledig
 title: Lawaaiprotest Westzaan

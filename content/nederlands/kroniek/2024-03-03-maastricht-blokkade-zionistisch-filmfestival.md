@@ -1,8 +1,8 @@
 ---
 date: 2024-03-03
 opmerking: 
-draft: TRUE
-status: Opzet
+draft: FALSE
+status: Gecontroleerd
 title: Blokkade zionistisch filmfestival
 location: Maastricht
 coordinates: 

@@ -1,8 +1,8 @@
 ---
 date: 2024-03-27
 opmerking: 
-draft: TRUE
-status: Opzet
+draft: FALSE
+status: Gecontroleerd
 title: ING bespoten met rode verf
 location: Nijmegen
 coordinates: 

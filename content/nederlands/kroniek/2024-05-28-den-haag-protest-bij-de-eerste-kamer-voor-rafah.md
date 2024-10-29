@@ -1,6 +1,6 @@
 ---
 date: 2024-05-28
-opmerking: Moeilijk iets over te vinden. Ik herinner me het wel.
+opmerking: Moeilijk iets over te vinden. Getuige herinnert zich het wel.
 draft: TRUE
 status: Onvolledig
 title: Protest bij de Eerste Kamer voor Rafah

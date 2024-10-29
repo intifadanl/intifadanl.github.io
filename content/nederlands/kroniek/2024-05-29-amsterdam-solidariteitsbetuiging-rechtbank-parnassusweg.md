@@ -1,6 +1,6 @@
 ---
 date: 2024-05-29
-opmerking: Mar was hier, volgens mij. Maar geen spoor. 
+opmerking: Guituige was hier, volgens mij. Maar geen spoor. 
 draft: TRUE
 status: Onvolledig
 title: Solidariteitsbetuiging rechtbank Parnassusweg
