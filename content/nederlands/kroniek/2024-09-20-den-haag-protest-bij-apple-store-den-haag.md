@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: []
 description: "Bij de Apple Store in Den Haag vind een éénpersoonsprotest plaats tegen Apple's betrokkenheid bij de genocides in Congo en Palestina."
-video: 
 image: 
 image_alt: ""
 source_name: 

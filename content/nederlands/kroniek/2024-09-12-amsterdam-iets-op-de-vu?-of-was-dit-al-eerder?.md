@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: []
 description: ""
-video: 
 image: /images/2024-09-12-amsterdam-vu-bord.png
 image_alt: ""
 source_name: 

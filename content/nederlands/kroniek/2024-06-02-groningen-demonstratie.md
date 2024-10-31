@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: []
 description: "Demonstratie op de Grote Markt?? 14:00"
-video: 
 image: 
 image_alt: ""
 source_name: 

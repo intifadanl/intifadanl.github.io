@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: []
 description: "Het hoofdkantoor van Booking wordt in de nacht van zondag op maandag beschadigd en beklad. De actiegroep Palestine Action Amsterdam eist even later de verantwoordelijkheid op."
-video: 
 image: /images/2024-10-07-booking-palestine-action.jpeg
 image_alt: "De besmeurde en beschadigde façade van het hoofdkantoor van Booking in het centrum van Amsterdam "
 source_name: Volkskrant

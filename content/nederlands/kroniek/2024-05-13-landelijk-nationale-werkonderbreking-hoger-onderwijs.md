@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: []
 description: "Tijdens een landelijke werkonderbreking kwamen studenten en docenten van verschillende onderwijsintellingen in actie."
-video: 
 image: 
 image_alt: ""
 source_name: NOS

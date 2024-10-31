@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: []
 description: "Tientallen studenten en medewerkers van de Erasmus Universiteit in Rotterdam voeren protest uit solidariteit met Palestina op campus Woudestein. Ze zetten tenten voor Food Plaza, en er is een met een drumband. "
-video: 
 image: 
 image_alt: ""
 source_name: AD

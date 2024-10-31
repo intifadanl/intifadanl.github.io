@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: []
 description: "In het voormalige hoofdkwartier in Amsterdam van de Verenigde Oostindische Compagnie hangt een installatie met babypoppen, om aandacht te richten op de meer dan 15.000 kinderen die in de afgelopen 265 dagen door zionistische troepen zijn vermoord."
-video: 
 image: /images/2024-06-27-amsterdam-babies.jpg
 image_alt: "In een licht, klassiek trappenhuis met een trapleuning met metalen art-deco-elementen, hangt vanaf boven een touw met daaraan vastgeknoopt kinderpoppen en hier en daar een Palestijnse vlag. De poppen dragen briefjes met daarop namen, waaronder 'Alia Abdel Nour Sami al-Souri'."
 source_name: Palestine Action Amsterdam

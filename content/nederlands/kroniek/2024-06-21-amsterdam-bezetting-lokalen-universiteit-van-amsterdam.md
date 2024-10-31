@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: []
 description: "Studenten, medewerkers en anderen bezetten een gang, twee lokalen (B1.01 en B1.02) en een toiletblok op het Roeterseiland van de Universiteit van Amsterdam, vanwege de universiteits medeplichtigheid aan genocide, kolonialisme en apartheid."
-video: 
 image: /images/2024-06-21-amsterdam-lokaalbezetting.jpg
 image_alt: "De glazen gevel van een ruimte met daarin stoelen, en kast met objecten, en felle plafondverlichting. Tegen het raam hangt een Palestijnse vlag en een oranje spandoek met daarop de tekst (in het Engels): 'Wat hen tot handelen zal aanzetten: dialoog (luisterden niet), kunst (werden er niet door geraakt), petities (onze aantallen maakten geen verschil), demonstraties (onze stem en tijd betekenden niets voor hen), burgerlijke ongehoorzaamheid (interpreteerden ze als hysterie), bedreiging van hun eigendom. Jullie hebben ons hiertoe aangezet.'"
 source_name: Palestine Action Amsterdam

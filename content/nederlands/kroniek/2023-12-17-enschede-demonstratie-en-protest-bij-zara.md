@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: []
 description: "Een demonstratie voor Palestina trekt door het stadscentrum van Enschede. Mensen lopen met Palestijnse vlaggen, borden en spandoeken. Hieronder valt ook een meterslange vlag die door meerdere mensen tegelijkertijd wordt gedragen. Er worden toespraken gehouden. "
-video: /images/2023-12-17-enschede-demonstratie.mp4
 image: /images/2023-12-17-enschede-demonstratie.jpg
 image_alt: "Honderden mensen lopen op een grauwe dag door een winkelstraat waarin winterverlichting hangt. Zij dragen Palestijnse vlaggen en borden met daarop oproepen tot een staakt-het-vuren. Vooraan de stoet rechts in beeld dragen kinderen een groot spandoek met daarop (in het Engels) de tekst 'Ze hebben namen. Ze hadden dromen', met daarbij de namen van duizenden mensen die door de zionisten vermoord zijn."
 source_name: Enschede4Palestine

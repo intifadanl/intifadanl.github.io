@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: []
 description: "Uit solidariteit met alle studentententenkampen, en op de 76ste herdenkingsdag van de Nakba, bespuit Palestine Action Amsterdam het ABC-gebouw op het Roeterseiland van de Universiteit van Amsterdam met rode verf en de leus (in het Engels): 'Schaam je, UvA'."
-video: 
 image: /images/2024-05-16-amsterdam-roeters.gif
 image_alt: "Aanzicht op een verlicht gebouw met een glazen voorgevel bij nacht. Twee donker gekleedde personen bespuiten de glazen voorgevel met rode verf."
 source_name: Palestine Action Amsterdam

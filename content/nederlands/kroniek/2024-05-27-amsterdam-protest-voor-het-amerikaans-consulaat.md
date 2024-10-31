@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: []
 description: "Een groep van zo'n honderd demonstranten protesteert aan het begin van de middag voor bij het Amerikaanse consulaat aan het Museumplein in Amsterdam. "
-video: 
 image: 
 image_alt: ""
 source_name: AT5

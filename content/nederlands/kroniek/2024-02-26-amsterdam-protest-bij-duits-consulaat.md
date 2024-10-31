@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: [Duitsland]
 description: "Op de stoep voor het Duitse consulaat in Amsterdam plaatst een autonome groep beelden van de Palestijnse martelaren die Duitsland heeft helpen vermoorden. Met deze actie veroordeelt de groep de medeplichtigheid van Duitsland aan genocides in het verleden en heden. Op enkele van de lichamen staat (in het Duits) 'Nooit meer is nu. Nooit meer voor iedereen'. Ook ligt er op de grond een spandoek met de tekst (in het Engels) 'Duitsland: oude gewoontes raak je maar lastig kwijt. Bevrijd Palestina'."
-video: 
 image: /images/2024-02-26-amsterdam-duits-consulaat.jpg
 image_alt: "Aanzicht op het Duitse consulaat in Amsterdam. Op de stoep voor het gebouw liggen verschillende figuren die de indruk geven van bloedige lichamen in lijkzakken gewikkeld. Ook ligt er op de grond een spandoek met de tekst (in het Engels) 'Duitsland: oude gewoontes raak je maar lastig kwijt. Bevrijd Palestina'."
 source_name: Palestine Action Amsterdam

@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: [straatprotest]
 description: "Kilometerlange lijst met namen van gedode Palestijnse kinderen op de stoep gekrijt in Amsterdam-Noord"
-video: 
 image: 
 image_alt: ""
 source_name: Parool

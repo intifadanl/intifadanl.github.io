@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: []
 description: "19:30 podiumprogramma, 20:30 mars"
-video: 
 image: 
 image_alt: ""
 source_name: Instagram New Neighbours

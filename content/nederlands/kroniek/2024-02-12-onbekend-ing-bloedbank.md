@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: [Palestine Action, ING bank]
 description: "Een filiaal van de ING bank is bespoten met rode verf. Dit omvat zowel flinke vlekken verf en teksten, waaronder: 'Geen geld naar genocide', 'Boycot deze bloedbank', 'Medeplichting aan genocide', 'Boycot Israël', en (in het Engels) 'Bevrijd Palestina' en 'Alle ogen gericht op Rafah'."
-video: 
 image: /images/2024-02-12-onbekend-ING.jpg
 image_alt: "Een straataanzicht op een ING bankfiliaal op een begane grond, met boven het filiaal appartementen. Voor het filiaal staan stallingen met fietsen. Op de schuifdeuren staat in rode verf de tekst 'Boycot deze bloedbank'. Op een raam een stuk aan de rechterkant staat de tekst 'Medeplichtig aan genocide' en (in het Engels) 'Bevrijd Palestina'. "
 source_name: Palestine Action Amsterdam

@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: []
 description: ""
-video: 
 image: 
 image_alt: ""
 source_name: De Intifada (tijdschrift)

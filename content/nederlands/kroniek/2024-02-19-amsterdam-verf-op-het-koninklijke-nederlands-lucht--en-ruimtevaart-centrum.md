@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: [Palestine Action, F-35]
 description: "Palestine Action Amsterdam sluit de deuren van het Koninklijke Nederlandse Lucht- en Ruimtevaartcentrum en bespuit het gebouw met rode verf. Het bedrijf draagt bij aan het gebruik van F-35-gevechtsvliegtuigonderdelen, en is daarmee medeplichtig aan de genocide in Gaza."
-video: 
 image: /images/2024-02-19-amsterdam-nl-luchtvaart.gif
 image_alt: "'Een vooraanzicht, in het donker op de geval van een gebouw van het Koninklijke Nederlandse Lucht- en Ruimtevaartcentrum in Amsterdam. Een persoon bespuit de gevel met rode verf.'"
 source_name: Palestine Action Amsterdam

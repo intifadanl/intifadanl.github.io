@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: [ING]
 description: "Activisten spuiten het ING-gebouw in Nijmegen met rode verf. Dit omdat de ING investeert in illegale landroof in Palestina en wapenhandel financiert waarmee mensenrechten worden geschonden."
-video: 
 image: /images/2024-03-27-nijmegen-ING.gif
 image_alt: "Een persoon komt midden in de nacht op de fiets aanrijden bij een filiaal van de ING bank. Voor de ingang stapt de persoon af, pakt een apparaat, en begint de voorgevel van het filiaal en het lichtgevende logo van de ING rood te spuiten."
 source_name: Palestine Action Amsterdam

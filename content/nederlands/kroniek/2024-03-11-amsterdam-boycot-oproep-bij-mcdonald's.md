@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: [Palestine Action Amsterdam, McDonalds]
 description: "'Een groep van tenminste vijf mensen houdt een zitprotest met gratis koffie, Palestijnse vlaggen en protestborden voor een filiaal van McDonald's op het Damrak, uit protest tegen McDonald's steun aan het leger van de zionistische bezetter.'"
-video: 
 image: /images/2024-03-11-amsterdam-mcdonalds.jpg
 image_alt: "'Een groep van ongeveer vijf mensen in donkere kleding en keffiyeh staat op een regenachtige straat voor de gevel van een filiaal van McDonald's, naast hotel Neutraal. De mensen hebben tassen en flyers bij zich. Ook staat er een groot metalen vat. Twee personen hebben borden in hun handen. Op het ene bord staat (in het Engels): 'Jouw 'Blije Maaltijden' doden duizenden kinderen!', en op het andere bord staat een grote 'M' van het McDonald's logo, met daaronder het woord 'genocide'. De hoofden van de personen zijn digitaal onherkenbaar gemaakt.'"
 source_name: Palestine Action Amsterdam

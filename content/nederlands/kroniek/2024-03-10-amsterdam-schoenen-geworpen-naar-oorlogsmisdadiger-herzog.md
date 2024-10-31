@@ -7,7 +7,6 @@ coordinates:
 category: acties
 tags: [Palestine Action Amsterdam, Herzog, Holocaustmuseum]
 description: "'Bij de opening van het Holocaustmuseum worden schoenen gegooid naar Yithzak Herzog, president van de zionistische entiteit.'"
-video: 
 image: /images/2024-03-10-amsterdam-schoen.png
 image_alt: "'Blik op een open straat met hoge gebouwen en kale bomen. De straat is bezwaaid met politieagenten, zowel in uniform as in burger. Er staan enkele fietsen geparkeerd, en op de achtergrond is een tramhalte. Op de voorgrond houdt een persoon met een beige jas en donker haar houdt een geprinte foto op richting de agenten. Helemaal bovenin beeld vliegt een halfhoge blauwe laars met lichte zool. De laars is digitaal uitgelicht met een rode cirkel.'"
 source_name: Palestine Action Amsterdam

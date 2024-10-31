@@ -7,7 +7,6 @@ coordinates:
 category: lezing
 tags: [lezing, gezondheid]
 description: "Het onderwijscentrum van het Erasmus Medisch Centrum in Rotterdam houdt 's avonds een lezing over de gezondheidszorg in Gaza."
-video: 
 image: 
 image_alt: ""
 source_name: Erasmus Magazine
