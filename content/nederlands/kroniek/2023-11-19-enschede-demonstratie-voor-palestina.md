@@ -1,6 +1,6 @@
 ---
 date: 2023-11-19
-draft: TRUE
+draft: FALSE
 title: Demonstratie voor Palestina
 location: Enschede
 coordinates: 

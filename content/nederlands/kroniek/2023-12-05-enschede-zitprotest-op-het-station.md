@@ -1,7 +1,7 @@
 ---
 date: 2023-12-05
-draft: TRUE
-title: Zitprotest Station Enschede
+draft: FALSE
+title: Zitprotest op het station
 location: Enschede
 coordinates: 
 category: acties
