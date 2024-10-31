@@ -1,22 +1,18 @@
 ---
 date: 2024-05-28
-opmerking: 
 draft: FALSE
-status: Onvolledig
 title: Bezetting auditorium Rietveld Academie
 location: Amsterdam
 coordinates: 
 category: acties
 tags: []
-description_original: > 
- Studenten van de Gerrit Rietveldacademie in Amsterdam kondigen een algemene vergadering aan om 17:00 uur. Ze roepen hier de Naji Al Ali Action Stairs uit, in een trapvormig auditorium van de Rietveld.
 description: > 
  Studenten van de Gerrit Rietveldacademie in Amsterdam kondigen een algemene vergadering aan om 17:00 uur. Ze roepen hier de Naji Al Ali Action Stairs uit, in een trapvormig auditorium van de Rietveld.
+video: 
 image: 
 image_alt: > 
  
 source_name: Instagram gra.si.students4palestine, 
 source: > 
  https://www.instagram.com/p/C7hyKKKIRRd/?img_index=2
-source_original: 
 ---
