@@ -6,12 +6,10 @@ location: Amsterdam
 coordinates: 
 category: acties
 tags: []
-description: > 
- Kolna aankondiging? Jabalia school bombardement is aanleiding
+description: "Kolna aankondiging? Jabalia school bombardement is aanleiding"
 video: 
 image: 
-image_alt: > 
- 
+image_alt: ""
 source_name: 
 source: 
 ---

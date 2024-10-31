@@ -6,15 +6,12 @@ location: Amsterdam
 coordinates: 
 category: acties
 tags: [ING]
-description: > 
- Uit protest tegen de ING-banks financiering van de zionistische bezetting van Palestina, bespuiten mensen in Amsterdam de kantoren Oud-zuid en Bijlmer met rode verf, waaronder met het woord 'genocidaal'.
+description: "Uit protest tegen de ING-banks financiering van de zionistische bezetting van Palestina, bespuiten mensen in Amsterdam de kantoren Oud-zuid en Bijlmer met rode verf, waaronder met het woord 'genocidaal'."
 video: 
 image: /images/2024-03-28-amsterdam-ING.jpg
-image_alt: > 
- De glazen voorgevel van een ING-kantoor, met meerdere verdiepingen met wachtruimte, kantoren en bureaus van buitenaf zichtbaar. Op de voorgevel staat ook een leeuw van het ING-logo en de tekst (in het Engels) 'doe je ding'. Op de ingangdraaideur en meerdere delen van de gevel zitten rode vlekken verf. Ook staat er het woord 'genociaal' gespoten.
+image_alt: "De glazen voorgevel van een ING-kantoor, met meerdere verdiepingen met wachtruimte, kantoren en bureaus van buitenaf zichtbaar. Op de voorgevel staat ook een leeuw van het ING-logo en de tekst (in het Engels) 'doe je ding'. Op de ingangdraaideur en meerdere delen van de gevel zitten rode vlekken verf. Ook staat er het woord 'genociaal' gespoten."
 source_name: Palestine Action Amsterdam
-source: > 
- https://archive.is/oE9Ep
+source: "https://archive.is/oE9Ep"
 ---
 De mensen lichten toe: 'Tussen januari 2020 en augustus 2023 investeerde de ING bijna 7,3 miljard USD in leningen en underwritings aan ondernemingen die betrokken zijn bij illegale Israëlische nederzettingen, daarnaast heeft de bank voor zo’n 133 miljoen USD in aandelen en obligaties (bron: Don’t Buy Into Occupation rapport 2023). Hiermee is de ING medeplichtig aan de onderdrukking van de Palestijnen en steunt de bank het genocidale regime van Israël.
 

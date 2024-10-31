@@ -6,12 +6,10 @@ location: Amsterdam
 coordinates: 
 category: acties
 tags: []
-description: > 
- Mars van Stopera en mars naar Maagdenhuis in Amsterdam
+description: "Mars van Stopera en mars naar Maagdenhuis in Amsterdam"
 video: 
 image: 
-image_alt: > 
- 
+image_alt: ""
 source_name: De Intifada (tijdschrift)
 source: 
 ---

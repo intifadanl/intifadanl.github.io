@@ -6,15 +6,12 @@ location: Amsterdam
 coordinates: 
 category: acties
 tags: [Palestine Action Amsterdam, IBM]
-description: > 
- In de ochtend verft Palestine Action Amsterdam de ingang van het kantoor van IBM Amsterdam en zet het op slot. Dit omdat IBM profiteert van de genocide in Gaza en oorlogsmisdaden tegen Palestijnen faciliteert.
+description: "In de ochtend verft Palestine Action Amsterdam de ingang van het kantoor van IBM Amsterdam en zet het op slot. Dit omdat IBM profiteert van de genocide in Gaza en oorlogsmisdaden tegen Palestijnen faciliteert."
 video: 
 image: /images/2024-03-04-amsterdam-IBM.jpg
-image_alt: > 
- "Een stenen muur met daarop een plant en een plakkaat met daarop in witte letters het logo, website-adres en locatie van het bedrijf IBM."
+image_alt: "'Een stenen muur met daarop een plant en een plakkaat met daarop in witte letters het logo, website-adres en locatie van het bedrijf IBM.'"
 source_name: Palestine Action Amsterdam
-source: > 
- https://archive.is/j89xx
+source: "https://archive.is/j89xx"
 ---
 De groep licht toe (in het Engels): 'De afgelopen decennia is het Amerikaanse technologiebedrijf [IBM] nauw betrokken geweest bij het Israëlische veiligheids- en militaire systeem door de alomtegenwoordige bewaking van bezette bevolkingsgroepen te faciliteren. IBM bezit twee Israëlische dochterondernemingen[,] IBM Israel en Red Hat Israel, die een actieve rol spelen in het Israëlische militair-industriële complex.
 

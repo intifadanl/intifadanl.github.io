@@ -6,12 +6,10 @@ location: Den Haag
 coordinates: 
 category: 
 tags: []
-description: > 
- Er werd gestemd over een wapendeal met Rafael, een Israelisch bedrijf. Buiten de ingang van de Tweede Kamer zaten demonstranten rond 13:00. Even later werden ze door de poltiie richting het Malieveld gedreven. 
+description: "Er werd gestemd over een wapendeal met Rafael, een Israelisch bedrijf. Buiten de ingang van de Tweede Kamer zaten demonstranten rond 13:00. Even later werden ze door de poltiie richting het Malieveld gedreven. "
 video: 
 image: 
-image_alt: > 
- 
+image_alt: ""
 source_name: 
 source: 
 ---

@@ -6,12 +6,10 @@ location: Utrecht
 coordinates: 
 category: acties
 tags: []
-description: > 
- 18:00 bij Utrecht Centraal
+description: "18:00 bij Utrecht Centraal"
 video: 
 image: 
-image_alt: > 
- 
+image_alt: ""
 source_name: 
 source: 
 ---

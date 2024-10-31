@@ -6,13 +6,10 @@ location: Utrecht
 coordinates: 
 category: acties
 tags: []
-description: > 
- 19:30 podiumprogramma, 20:30 mars
+description: "19:30 podiumprogramma, 20:30 mars"
 video: 
 image: 
-image_alt: > 
- 
+image_alt: ""
 source_name: Instagram New Neighbours
-source: > 
- https://www.instagram.com/reel/DBPAM-SIJAw/?igsh=NjV5NXU3MHkyOWl1
+source: "https://www.instagram.com/reel/DBPAM-SIJAw/?igsh=NjV5NXU3MHkyOWl1"
 ---

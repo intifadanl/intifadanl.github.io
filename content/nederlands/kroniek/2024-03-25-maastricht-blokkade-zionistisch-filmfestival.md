@@ -6,15 +6,12 @@ location: Maastricht
 coordinates: 
 category: acties
 tags: []
-description: > 
- Een groep zo'n twintig mensen blokkeert een deel van het zogenaamd israëlische filmfestival in de Lumière-bioscoop in Maastricht uit protest tegen de normalisering van genocide en apartheid. Ongeveer 20 mensen staan arm-in-arm voor de ingang en gebruiken zo hun lichaam om Lumière geweldloos te blokkeren.
+description: "Een groep zo'n twintig mensen blokkeert een deel van het zogenaamd israëlische filmfestival in de Lumière-bioscoop in Maastricht uit protest tegen de normalisering van genocide en apartheid. Ongeveer 20 mensen staan arm-in-arm voor de ingang en gebruiken zo hun lichaam om Lumière geweldloos te blokkeren."
 video: 
 image: /images/2024-03-25-maastricht-fillm.png
-image_alt: > 
- Aanzicht op een plein met een hoog gebouw in grauw-geel steen, hoge verdiepingen en hoge ramen. Voor het gebouw staat een terrasparasol. In het midden van het beeld staat boven de ingang in grote, witte letters het woord 'Lumière'. De ingang zelf is een hoge, donkere duur. Voor de ingang staan zo'n twintig mensen met de armen ineen gehaakt, hun gezicht richting het plein. De meesten van hen dragen witte gezichtsmaskers. Voor hen staan twee handhavers in uniform. Drie personen lopen langs, een ander maakt verderop een foto van de situatie, en weer een ander zit op een bankje.
+image_alt: "Aanzicht op een plein met een hoog gebouw in grauw-geel steen, hoge verdiepingen en hoge ramen. Voor het gebouw staat een terrasparasol. In het midden van het beeld staat boven de ingang in grote, witte letters het woord 'Lumière'. De ingang zelf is een hoge, donkere duur. Voor de ingang staan zo'n twintig mensen met de armen ineen gehaakt, hun gezicht richting het plein. De meesten van hen dragen witte gezichtsmaskers. Voor hen staan twee handhavers in uniform. Drie personen lopen langs, een ander maakt verderop een foto van de situatie, en weer een ander zit op een bankje."
 source_name: Palestine Action Amsterdam
-source: > 
- https://imginn.com/p/C48b2tUIkgM/
+source: "https://imginn.com/p/C48b2tUIkgM/"
 ---
 De groep licht in het Engels toe: 
 

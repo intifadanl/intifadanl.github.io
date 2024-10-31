@@ -6,13 +6,10 @@ location: Amsterdam
 coordinates: 
 category: acties
 tags: [straatprotest]
-description: > 
- Kilometerlange lijst met namen van gedode Palestijnse kinderen op de stoep gekrijt in Amsterdam-Noord
+description: "Kilometerlange lijst met namen van gedode Palestijnse kinderen op de stoep gekrijt in Amsterdam-Noord"
 video: 
 image: 
-image_alt: > 
- 
+image_alt: ""
 source_name: Parool
-source: > 
- https://archive.is/oCEXV
+source: "https://archive.is/oCEXV"
 ---

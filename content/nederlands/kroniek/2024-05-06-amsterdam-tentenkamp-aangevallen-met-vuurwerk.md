@@ -6,12 +6,10 @@ location: Amsterdam
 coordinates: 
 category: 
 tags: []
-description: > 
- In Amsterdam wordt een studentendemonstratie met vuurwerk aangevallen door personen met bivakmutsen
+description: "In Amsterdam wordt een studentendemonstratie met vuurwerk aangevallen door personen met bivakmutsen"
 video: 
 image: 
-image_alt: > 
- 
+image_alt: ""
 source_name: 
 source: 
 ---

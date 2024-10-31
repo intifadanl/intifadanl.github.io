@@ -6,12 +6,10 @@ location: Amsterdam
 coordinates: 
 category: acties
 tags: []
-description: > 
- Op het Science Park in Amsterdam wordt iets georganiseerd tegen medeplichtigheid
+description: "Op het Science Park in Amsterdam wordt iets georganiseerd tegen medeplichtigheid"
 video: 
 image: 
-image_alt: > 
- 
+image_alt: ""
 source_name: De Intifada (tijdschrift)
 source: 
 ---

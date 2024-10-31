@@ -6,15 +6,12 @@ location: Amsterdam
 coordinates: 
 category: acties
 tags: []
-description: > 
- Honderden demonstranten verzamelen zich rondom de Dam om te protesteren tegen een viering van het zogenaamde 'Israël' die op het plein zou plaatsvinden. De politie duwt de demonstranten van het plein af, het Damrak op. Uiteindelijk werden zo'n driehonderd mensen aangehouden.
+description: "Honderden demonstranten verzamelen zich rondom de Dam om te protesteren tegen een viering van het zogenaamde 'Israël' die op het plein zou plaatsvinden. De politie duwt de demonstranten van het plein af, het Damrak op. Uiteindelijk werden zo'n driehonderd mensen aangehouden."
 video: 
 image: /images/2024-10-07-damrak-protest.webp
-image_alt: > 
- Een groep mensen met hoofddeksels en in sommige gevallen zonnebrillen op wordt midden op straat geconfronteerd door politieknuppels en -schilden. In de achtergrond stijgt een groene rookpluim op.
+image_alt: "Een groep mensen met hoofddeksels en in sommige gevallen zonnebrillen op wordt midden op straat geconfronteerd door politieknuppels en -schilden. In de achtergrond stijgt een groene rookpluim op."
 source_name: Volkskrant
-source: > 
- https://archive.is/bQHHh
+source: "https://archive.is/bQHHh"
 ---
 Op verschillende momenten werden mensen door politie geketeld en werd er geweld tegen hen gebruikt.
 

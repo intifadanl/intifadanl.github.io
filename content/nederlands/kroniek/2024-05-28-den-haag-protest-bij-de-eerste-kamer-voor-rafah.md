@@ -6,12 +6,10 @@ location: Den Haag
 coordinates: 
 category: acties
 tags: []
-description: > 
- 
+description: ""
 video: 
 image: 
-image_alt: > 
- 
+image_alt: ""
 source_name: De Intifada (tijdschrift)
 source: 
 ---

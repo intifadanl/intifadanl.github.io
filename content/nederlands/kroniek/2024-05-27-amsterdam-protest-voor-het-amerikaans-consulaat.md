@@ -6,13 +6,10 @@ location: Amsterdam
 coordinates: 
 category: acties
 tags: []
-description: > 
- Een groep van zo'n honderd demonstranten protesteert aan het begin van de middag voor bij het Amerikaanse consulaat aan het Museumplein in Amsterdam. 
+description: "Een groep van zo'n honderd demonstranten protesteert aan het begin van de middag voor bij het Amerikaanse consulaat aan het Museumplein in Amsterdam. "
 video: 
 image: 
-image_alt: > 
- 
+image_alt: ""
 source_name: AT5
-source: > 
- https://www.at5.nl/artikelen/226854/73-pro-palestina-demonstranten-gearresteerd-rond-de-dam-agenten-geschopt-en-gekrabd
+source: "https://www.at5.nl/artikelen/226854/73-pro-palestina-demonstranten-gearresteerd-rond-de-dam-agenten-geschopt-en-gekrabd"
 ---

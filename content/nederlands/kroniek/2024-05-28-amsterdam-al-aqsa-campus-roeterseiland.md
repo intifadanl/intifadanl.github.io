@@ -6,13 +6,10 @@ location: Amsterdam
 coordinates: 
 category: acties
 tags: []
-description: > 
- In een hoek van de campus Roeterseiland van de Universiteit van Amsterdam word door docenten en studenten de Al-Aqsa campus opgezet. Er vinden lezingen en workshops plaats, en er is een bibliotheek voor één van de tenten die zijn opgezet.
+description: "In een hoek van de campus Roeterseiland van de Universiteit van Amsterdam word door docenten en studenten de Al-Aqsa campus opgezet. Er vinden lezingen en workshops plaats, en er is een bibliotheek voor één van de tenten die zijn opgezet."
 video: 
 image: 
-image_alt: > 
- 
+image_alt: ""
 source_name: Twitter
-source: > 
- https://x.com/AMS_Encampment/status/1795409259561173417
+source: "https://x.com/AMS_Encampment/status/1795409259561173417"
 ---

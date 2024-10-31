@@ -6,13 +6,10 @@ location: Landelijk
 coordinates: 
 category: acties
 tags: []
-description: > 
- Tijdens een landelijke werkonderbreking kwamen studenten en docenten van verschillende onderwijsintellingen in actie.
+description: "Tijdens een landelijke werkonderbreking kwamen studenten en docenten van verschillende onderwijsintellingen in actie."
 video: 
 image: 
-image_alt: > 
- 
+image_alt: ""
 source_name: NOS
-source: > 
- https://archive.is/xfn2g
+source: "https://archive.is/xfn2g"
 ---

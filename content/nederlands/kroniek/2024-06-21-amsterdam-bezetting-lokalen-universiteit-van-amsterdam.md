@@ -6,15 +6,12 @@ location: Amsterdam
 coordinates: 
 category: acties
 tags: []
-description: > 
- Studenten, medewerkers en anderen bezetten een gang, twee lokalen (B1.01 en B1.02) en een toiletblok op het Roeterseiland van de Universiteit van Amsterdam, vanwege de universiteits medeplichtigheid aan genocide, kolonialisme en apartheid.
+description: "Studenten, medewerkers en anderen bezetten een gang, twee lokalen (B1.01 en B1.02) en een toiletblok op het Roeterseiland van de Universiteit van Amsterdam, vanwege de universiteits medeplichtigheid aan genocide, kolonialisme en apartheid."
 video: 
 image: /images/2024-06-21-amsterdam-lokaalbezetting.jpg
-image_alt: > 
- De glazen gevel van een ruimte met daarin stoelen, en kast met objecten, en felle plafondverlichting. Tegen het raam hangt een Palestijnse vlag en een oranje spandoek met daarop de tekst (in het Engels): 'Wat hen tot handelen zal aanzetten: dialoog (luisterden niet), kunst (werden er niet door geraakt), petities (onze aantallen maakten geen verschil), demonstraties (onze stem en tijd betekenden niets voor hen), burgerlijke ongehoorzaamheid (interpreteerden ze als hysterie), bedreiging van hun eigendom. Jullie hebben ons hiertoe aangezet.'
+image_alt: "De glazen gevel van een ruimte met daarin stoelen, en kast met objecten, en felle plafondverlichting. Tegen het raam hangt een Palestijnse vlag en een oranje spandoek met daarop de tekst (in het Engels): 'Wat hen tot handelen zal aanzetten: dialoog (luisterden niet), kunst (werden er niet door geraakt), petities (onze aantallen maakten geen verschil), demonstraties (onze stem en tijd betekenden niets voor hen), burgerlijke ongehoorzaamheid (interpreteerden ze als hysterie), bedreiging van hun eigendom. Jullie hebben ons hiertoe aangezet.'"
 source_name: Palestine Action Amsterdam
-source: > 
- https://archive.is/SqYFM
+source: "https://archive.is/SqYFM"
 ---
 De studenten, medewerkers en medestanders lichten toe: 'Maandenlang, zo niet jaren, voeren we campagne voor een academische boycot en desinvestering. Als reactie hierop kondigden de rectoren van alle Nederlandse universiteiten in een krantenartikel op 12 juni aan dat ze niet van plan zijn hun medeplichtigheid te herzien of te corrigeren. Hiermee hebben ze duidelijk gemaakt dat hun beloofde dialogen, consultaties en ethische commissies geen zinvolle veranderingen teweeg zullen brengen. Voor ons is dit een verdere bevestiging dat het nemen van actie voor onze eisen noodzakelijk blijft. Met deze actie roepen we de autoriteiten nogmaals op om stelling te nemen, de Palestijnen actief te steunen en onze eisen in te willigen (openbaar, boycot en desinvesteren).
 

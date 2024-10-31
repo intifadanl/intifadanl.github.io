@@ -6,15 +6,12 @@ location: Den Haag
 coordinates: 
 category: acties
 tags: [Palestine Action, Rijksoverheid]
-description: > 
- "De voorgevel van het Ministerie van Buitenlandse Zaken in Den Haag is ondergespoten met rode verf, vanwege diens steun aan het genocidale zionistische leger."
+description: "'De voorgevel van het Ministerie van Buitenlandse Zaken in Den Haag is ondergespoten met rode verf, vanwege diens steun aan het genocidale zionistische leger.'"
 video: 
 image: /images/2024-03-18-den-haag-buza.jpg
-image_alt: > 
- "Aanzicht op de voorgevel van een hoog, glazen gebouw. Een groot grijs bord toont het adres van het gebouw: 'Rijkskantoor Rijnstraat 8', met iets aan de rechterkant een deur. Flinke delen van de voorgevel zijn bespoten met heldere rode verf."
+image_alt: "'Aanzicht op de voorgevel van een hoog, glazen gebouw. Een groot grijs bord toont het adres van het gebouw: 'Rijkskantoor Rijnstraat 8', met iets aan de rechterkant een deur. Flinke delen van de voorgevel zijn bespoten met heldere rode verf.'"
 source_name: Palestine Action Amsterdam
-source: > 
- https://archive.is/8Wwc8
+source: "https://archive.is/8Wwc8"
 ---
 De actievoerders lichten toe: Vanochtend is het Ministerie van Buitenlandse Zaken ondergespoten met rode verf
 

@@ -6,12 +6,10 @@ location: Oss
 coordinates: 
 category: acties
 tags: []
-description: > 
- 
+description: ""
 video: 
 image: /images/2024-09-12-oss-k4.png
-image_alt: > 
- 
+image_alt: ""
 source_name: 
 source: 
 ---
