@@ -1,5 +1,5 @@
 ---
-date: 2023-12-07
+date: 2023-12-17
 draft: FALSE
 title: Demonstratie en protest bij Zara
 location: Enschede
