@@ -7,7 +7,7 @@ coordinates:
 category: acties
 tags: []
 description: "Ongeveer 60 mensen houden een zitprotest op station Gorinchem met Palestijnse vlaggen, muziek, toespraken en kaarsjes in die het woord 'Gaza' spellen."
-image: /images/2024-02-01-gorinchem-zitprotest.mp4
+image: /images/2024-02-01-gorinchem-zitprotest.png
 image_alt: "Mensen staan en zitten in een goedverlichtte stationshal. Sommigen hebben Palestijnse vlaggen om en dragen keffiyeh. Een persoon bespeelt een trommel. "
 source_name: Leerdam4Palestine
 source: "https://archive.ph/idEiH"
