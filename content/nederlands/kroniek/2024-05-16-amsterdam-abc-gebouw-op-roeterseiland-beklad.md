@@ -1,6 +1,6 @@
 ---
 date: 2024-05-16
-draft: TRUE
+draft: FALSE
 title: ABC-gebouw op Roeterseiland beklad
 location: Amsterdam
 coordinates: 

@@ -1,6 +1,6 @@
 ---
 date: 2024-06-21
-draft: TRUE
+draft: FALSE
 title: Steundemonstratie belaagd door politie
 location: Amsterdam
 coordinates: 

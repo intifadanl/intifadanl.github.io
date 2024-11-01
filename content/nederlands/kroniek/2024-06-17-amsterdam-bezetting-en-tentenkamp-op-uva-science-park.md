@@ -1,6 +1,6 @@
 ---
 date: 2024-06-17
-draft: TRUE
+draft: FALSE
 title: Bezetting en tentenkamp op UvA Science Park
 location: Amsterdam
 coordinates: 

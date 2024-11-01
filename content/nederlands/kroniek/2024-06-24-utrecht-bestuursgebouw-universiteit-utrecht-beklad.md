@@ -1,6 +1,6 @@
 ---
 date: 2024-06-24
-draft: TRUE
+draft: FALSE
 title: Bestuursgebouw Universiteit Utrecht beklad
 location: Utrecht
 coordinates: 

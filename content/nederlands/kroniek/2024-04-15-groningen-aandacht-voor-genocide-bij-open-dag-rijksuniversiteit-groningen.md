@@ -1,6 +1,6 @@
 ---
 date: 2024-04-15
-draft: TRUE
+draft: FALSE
 title: Aandacht voor genocide bij open dag Rijksuniversiteit Groningen
 location: Groningen
 coordinates: 

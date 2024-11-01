@@ -1,6 +1,6 @@
 ---
 date: 2024-06-07
-draft: TRUE
+draft: FALSE
 title: Bekladding Palantir, Maagdenhuis, L3 Harris en Lockheed Martin-gebouwen
 location: Amsterdam
 coordinates: 

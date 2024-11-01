@@ -1,6 +1,6 @@
 ---
 date: 2024-06-27
-draft: TRUE
+draft: FALSE
 title: Installatie dode babies
 location: Amsterdam
 coordinates: 
