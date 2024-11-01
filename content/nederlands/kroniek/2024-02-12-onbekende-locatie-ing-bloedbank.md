@@ -2,7 +2,7 @@
 date: 2024-02-12
 draft: FALSE
 title: ING bloedbank
-location: onbekend
+location: Onbekende locatie
 coordinates: 
 category: acties
 tags: [Palestine Action, ING bank]

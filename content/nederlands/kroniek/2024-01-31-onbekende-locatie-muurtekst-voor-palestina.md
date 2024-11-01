@@ -2,7 +2,7 @@
 date: 2024-01-31
 draft: FALSE
 title: Muurtekst voor Palestina
-location: onbekend
+location: Onbekende locatie
 coordinates: 
 category: acties
 tags: [Palestine Action, graffiti]

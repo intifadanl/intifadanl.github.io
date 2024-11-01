@@ -1,6 +1,6 @@
 ---
 date: 2024-07-14
-draft: TRUE
+draft: FALSE
 title: Opening Hiba Abu Nada-campus
 location: Amsterdam
 coordinates: 

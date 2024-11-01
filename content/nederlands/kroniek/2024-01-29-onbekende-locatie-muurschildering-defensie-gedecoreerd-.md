@@ -2,7 +2,7 @@
 date: 2024-01-29
 draft: FALSE
 title: Muurschildering defensie gedecoreerd 
-location: onbekend
+location: Onbekende locatie
 coordinates: 
 category: acties
 tags: [Palestine Action, defensie, militair]

@@ -10,5 +10,5 @@ description: "Ruim 700 mensen demonstreren in Leerdam voor Palestina. Vanaf 13:0
 image: /images/2023-12-16-leerdam-demonstratie.png
 image_alt: "In een historisch stadscentrum lopen op een grauwe dag honderden mensen met Palestijnse vlaggen en borden in solidariteit met Palestina. Borden zeggen onder andere (in het Engels): 'Wees stil wanneer kinderen slapen, niet wanneer ze doodgaan', en borden van een ouder die een dood, gewond of stervend kind omarmt."
 source_name: Het Kontakt
-source: "https://www.hetkontakt.nl/vijfheerenlanden/nieuws/372250/tugba-en-esma-brachten-700-mensen-op-de-been-voor-vredesmars-"
+source: "https://archive.ph/wFaBc"
 ---

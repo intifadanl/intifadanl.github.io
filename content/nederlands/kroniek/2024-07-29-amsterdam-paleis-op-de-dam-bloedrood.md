@@ -1,6 +1,6 @@
 ---
 date: 2024-07-29
-draft: TRUE
+draft: FALSE
 title: Paleis op de Dam bloedrood
 location: Amsterdam
 coordinates: 

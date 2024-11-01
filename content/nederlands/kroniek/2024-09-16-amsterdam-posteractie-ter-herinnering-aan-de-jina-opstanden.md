@@ -1,6 +1,6 @@
 ---
 date: 2024-09-16
-draft: TRUE
+draft: FALSE
 title: Posteractie ter herinnering aan de Jina-opstanden
 location: Amsterdam
 coordinates: 

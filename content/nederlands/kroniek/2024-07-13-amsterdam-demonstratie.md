@@ -1,6 +1,6 @@
 ---
 date: 2024-07-13
-draft: TRUE
+draft: FALSE
 title: Demonstratie
 location: Amsterdam
 coordinates: 

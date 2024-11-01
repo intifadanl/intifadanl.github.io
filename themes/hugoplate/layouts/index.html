@@ -35,8 +35,10 @@
   <!-- /Banner -->
 
   <!-- Timeline -->
+
   <!-- Code based on: https://codepen.io/TajShireen/pen/RwrXodK -->
   <main> 
+    <div class="all-entries">
     {{ range (where .Site.RegularPages "Type" "kroniek").GroupByDate "2006" }}
       <div class="year" id="{{ .Key }}"><h1>{{ .Key }}</h1></div>
         {{ range .Pages.GroupByDate "Monday 2 January" }}
@@ -57,6 +59,7 @@
           </section>
         {{ end }}
     {{ end }}
+    </div>
   </main>
   <!-- /Timeline -->
 
