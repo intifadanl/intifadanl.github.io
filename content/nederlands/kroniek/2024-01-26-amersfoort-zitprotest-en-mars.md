@@ -1,6 +1,6 @@
 ---
 date: 2024-01-26
-draft: TRUE
+draft: FALSE
 title: Zitprotest en mars
 location: Amersfoort
 coordinates: 

@@ -1,6 +1,6 @@
 ---
 date: 2024-08-05
-draft: TRUE
+draft: FALSE
 title: Locaties Universiteit van Amsterdam aangepakt
 location: Amsterdam
 coordinates: 

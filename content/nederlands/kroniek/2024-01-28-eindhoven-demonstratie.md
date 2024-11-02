@@ -1,6 +1,6 @@
 ---
 date: 2024-01-28
-draft: TRUE
+draft: FALSE
 title: Demonstratie
 location: Eindhoven
 coordinates: 

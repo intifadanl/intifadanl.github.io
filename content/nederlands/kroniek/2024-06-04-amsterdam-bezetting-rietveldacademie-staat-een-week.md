@@ -1,6 +1,6 @@
 ---
 date: 2024-06-04
-draft: TRUE
+draft: FALSE
 title: Bezetting Rietveldacademie staat een week
 location: Amsterdam
 coordinates: 

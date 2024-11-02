@@ -1,6 +1,6 @@
 ---
 date: 2024-06-21
-draft: TRUE
+draft: FALSE
 title: Standbeeld Bartje draagt een kuffiya
 location: Assen
 coordinates: 52.99351501464844,6.565232276916504

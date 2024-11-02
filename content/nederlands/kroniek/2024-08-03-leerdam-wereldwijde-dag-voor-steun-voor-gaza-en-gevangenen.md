@@ -1,7 +1,7 @@
 ---
 date: 2024-08-03
-draft: TRUE
-title: Wereldwijde dag voor steun voor Gaza en gevangenen, tegen genocide en de executie van gevangenen
+draft: FALSE
+title: Wereldwijde dag voor steun voor Gaza en gevangenen
 location: Leerdam
 coordinates: 
 category: acties

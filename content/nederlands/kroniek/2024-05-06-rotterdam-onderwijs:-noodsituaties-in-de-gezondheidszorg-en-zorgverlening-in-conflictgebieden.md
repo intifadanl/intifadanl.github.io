@@ -12,7 +12,7 @@ image_alt: ""
 source_name: Erasmus Magazine
 source: "https://archive.is/dgQaS"
 ---
-De afgelopen zes maanden is de wereld getuige geweest van de vernietiging van het zorgsysteem in Gaza, waar zorginstellingen en ziekenhuizen zijn vernietigd en minstens 400 zorgprofessionals zijn gedood. De voortdurende vernietiging heeft het humanitaire recht op gezondheidszorg in Gaza in gevaar gebracht. Tijdens deze lezing zullen we dit uiterst belangrijke en zorgwekkende onderwerp verder bespreken met drie gerenommeerde sprekers:
+De organisatoren lichten toe: 'De afgelopen zes maanden is de wereld getuige geweest van de vernietiging van het zorgsysteem in Gaza, waar zorginstellingen en ziekenhuizen zijn vernietigd en minstens 400 zorgprofessionals zijn gedood. De voortdurende vernietiging heeft het humanitaire recht op gezondheidszorg in Gaza in gevaar gebracht.' Drie sprekers nemen deel aan de lezing: 
 
 Mads Gilbert Anesthesioloog en emeritus hoogleraar, die uitgebreide praktische ervaring heeft met spoedeisende hulp in conflictgebieden, waaronder Gaza. Hij zal praten over 'de geschiedenis van het Palestijnse zorgsysteem en hoe het is aangevallen'.
 

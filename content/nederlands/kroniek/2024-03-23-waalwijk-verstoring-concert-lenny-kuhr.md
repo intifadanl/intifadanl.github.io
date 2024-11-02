@@ -6,7 +6,7 @@ location: Waalwijk
 coordinates: 
 category: acties
 tags: []
-description: "Een optreden van muzikant en zionist Lenny Kuhr in het theater en filmhuis de Leest in Waalwijk onderbroken door Palestine Action NL. Kuhr is oud-winnares van het Eurovisie Songfestival van 1969. Kuhr gebruikt haar podium om propaganda te spuien voor het bloeddorstige 'Israëlische' regime dat inmiddels meer dan 32.000 Palestijnen in Gaza op brute wijze heeft vermoord."
+description: "Een optreden van muzikant en zionist Lenny Kuhr in het theater en filmhuis de Leest in Waalwijk wordt onderbroken door Palestine Action NL. Kuhr is oud-winnares van het Eurovisie Songfestival van 1969. Kuhr gebruikt haar podium om propaganda te spuien voor het bloeddorstige 'Israëlische' regime dat inmiddels meer dan 32.000 Palestijnen in Gaza op brute wijze heeft vermoord."
 image: /images/2024-03-24-waalwijk-concertverstoring.png
 image_alt: "In een donkere concertzaal met oplopende tribune wordt een persoon met een Palestijnse vlag van een podiumvloer weggevoerd."
 source_name: Leerdam4Palestine

@@ -1,6 +1,6 @@
 ---
 date: 2024-09-06
-draft: TRUE
+draft: FALSE
 title: Zitprotest op het Spui
 location: Amsterdam
 coordinates: 

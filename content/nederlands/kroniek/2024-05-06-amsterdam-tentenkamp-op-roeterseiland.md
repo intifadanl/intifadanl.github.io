@@ -12,3 +12,6 @@ image_alt: "Een persoon staat op een grasveld en spreekt een groep mensen toe. Z
 source_name: AT5
 source: "https://archive.is/0iPlN"
 ---
+Ook 's avonds blijft de energie in het tentenkamp hoog met het scanderen van leuzen.
+
+![Onder straatverlichting in begin van de avond staan mensen in een cirkel in een open terrein. Sommigen gebruiken een megafoon en anderen trommels.](/images/2024-05-06-amsterdam-tentenkamp-avond_anonymized.png)

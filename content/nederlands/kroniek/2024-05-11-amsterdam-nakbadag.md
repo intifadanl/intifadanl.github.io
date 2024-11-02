@@ -1,7 +1,7 @@
 ---
 date: 2024-05-11
 draft: FALSE
-title: Herdenking Nakba
+title: Nakbadag
 location: Amsterdam
 coordinates: 
 category: acties
@@ -12,3 +12,4 @@ image_alt: "Een zee van duizenden mensen loopt met borden, spandoeken en Palesti
 source_name: Het Parool
 source: "https://archive.is/NAgH4"
 ---
+![Duizenden mensen op een plein met Palestijnse vlaggen op een heldere, zonnige dag.](/images/2024-05-11-amsterdam-nakba-dam.png)

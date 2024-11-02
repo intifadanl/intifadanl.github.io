@@ -12,4 +12,4 @@ image_alt: "Op een zonnige binnenplaats omgeven door klassiek aandoende gebouwen
 source_name: Oog TV
 source: "https://archive.is/FxmO1"
 ---
-Voor een uitgebreidere tijdlijn, zie de Ukrant: https://archive.is/IZcMu
+![Composietfoto. Beeld 1: Een standbeeld op een binnenplaats in de schemering, gedrapeerd in een Palestijnse vlag en met gezichtsmasker in rood, zwart, wit en groen. Beeld 2: Een bord met in meerdere talen de boodschap 'Glorie aan de marelaren', met op de achtergrond mensen die staan of rondhangen.](/images/2024-05-13-groningen-kampement.jpg) Voor een uitgebreidere tijdlijn, zie de Ukrant: https://archive.is/IZcMu
