@@ -14,4 +14,4 @@ source: "https://imginn.com/p/C33HDhGrwMu"
 ---
 Van Agt streed in zijn latere jaren fel voor Palestijnse rechten. Dit in tegenstelling tot de houding in het huidige Nederlandse parlement, dat de zionistische bezetting van Palestina steunt in plaats op te komen voor mensenrechten.
 
-{{< video src="/images/2024-02-11-enschede-demonstratie.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
+{{< video src="/images/2024-02-27-den-haag-van-agt.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
