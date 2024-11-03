@@ -2,7 +2,7 @@
 date: 2024-02-27
 draft: FALSE
 title: Protest tijdens herdenking Dries van Agt
-location: 
+location: Den Haag
 coordinates: 
 category: 
 tags: []

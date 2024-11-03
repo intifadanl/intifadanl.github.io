@@ -12,3 +12,4 @@ image_alt: "Tientallen mensen lopen op een heldere dag op straat in een binnenst
 source_name: Friesland for Palestine
 source: "https://imginn.com/p/C7zDXruodmr"
 ---
+![Een demonstratie van mensen met spandoeken en Palestijnse vlaggen.](assets/images/2024-06-01-leeuwarden_anonymized.png)

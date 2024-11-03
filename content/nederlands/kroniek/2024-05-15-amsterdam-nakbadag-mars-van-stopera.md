@@ -1,7 +1,7 @@
 ---
 date: 2024-05-15
 draft: TRUE
-title: Nakba dag mars van Stopera
+title: Nakbadag-mars van Stopera
 location: Amsterdam
 coordinates: 
 category: acties
